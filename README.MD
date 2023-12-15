@@ -6,8 +6,8 @@ ChatGPT plugin implementation with UI for file upload, data extraction, and stor
 
 ### Modules
 
-* **[sparrow-plugin-ui](https://github.com/katanaml/sparrow/tree/main/sparrow-plugin-ui)** - Sparrow UI for ChatGPT plugin
-* **[sparrow-plugin](https://github.com/katanaml/sparrow/tree/main/sparrow-plugin)** - Sparrow ChatGPT plugin
+* **[sparrow-plugin-ui](https://github.com/katanaml/sparrow-chatgpt-plugin/tree/main/sparrow-plugin-ui)** - Sparrow UI for ChatGPT plugin
+* **[sparrow-plugin](https://github.com/katanaml/sparrow-chatgpt-plugin/tree/main/sparrow-plugin)** - Sparrow ChatGPT plugin
 
 ## Author
 
