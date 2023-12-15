@@ -2,7 +2,7 @@
 
 ## Description
 
-Sparrow helps to extract and process data from scanned documents and pictures. It works with forms, invoices, receipts and other structured data.
+ChatGPT plugin implementation with UI for file upload, data extraction, and storage in Mongo DB. The backend is implemented with FastAPI.
 
 ### Modules
 
