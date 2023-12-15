@@ -1,4 +1,4 @@
-# Sparrow ChatGPT Plugin for data extraction and storage
+# Sparrow ChatGPT Plugin for invoice data extraction and storage
 
 ## Description
 
