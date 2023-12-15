@@ -4,7 +4,7 @@
 
 Manage receipts with Sparrow. You can read, store and review your receipts. This plugin works with ChatGPT to process OCR output from [Sparrow Data](https://github.com/katanaml/sparrow/tree/main/sparrow-data) service.
 
-![Inference Results](https://github.com/katanaml/sparrow/blob/main/sparrow-ui/assets/chatgpt_plugin.png)
+![Inference Results](https://github.com/katanaml/sparrow-chatgpt-plugin/blob/main/sparrow-plugin-ui/assets/chatgpt_plugin.png)
 
 ## Usage
 
@@ -52,4 +52,4 @@ The plugin should now be installed and enabled! You can start with a question li
 
 ## License
 
-Licensed under the Apache License, Version 2.0. Copyright 2020-2023 Katana ML, Andrej Baranovskij. [Copy of the license](https://github.com/katanaml/sparrow/blob/main/LICENSE).
+Licensed under the Apache License, Version 2.0. Copyright 2020-2023 Katana ML, Andrej Baranovskij. [Copy of the license](https://github.com/katanaml/sparrow-chatgpt-plugin/blob/main/LICENSE).
