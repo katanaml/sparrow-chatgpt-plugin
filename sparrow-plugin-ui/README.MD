@@ -4,7 +4,7 @@
 
 This app implements Sparrow file upload UI functionality for Receipt Assistant ChatGPT plugin.
 
-![Inference Results](https://github.com/katanaml/sparrow/blob/main/sparrow-ui/assets/chatgpt_plugin_ui.png)
+![Inference Results](https://github.com/katanaml/sparrow-chatgpt-plugin/blob/main/sparrow-ui/assets/chatgpt_plugin_ui.png)
 
 ## Instructions
 
@@ -67,4 +67,4 @@ https://katanaml-org-sparrow-plugin-ui.hf.space
 
 ## License
 
-Licensed under the Apache License, Version 2.0. Copyright 2020-2023 Katana ML, Andrej Baranovskij. [Copy of the license](https://github.com/katanaml/sparrow/blob/main/LICENSE).
+Licensed under the Apache License, Version 2.0. Copyright 2020-2023 Katana ML, Andrej Baranovskij. [Copy of the license](https://github.com/katanaml/sparrow-chatgpt-plugin/blob/main/LICENSE).
